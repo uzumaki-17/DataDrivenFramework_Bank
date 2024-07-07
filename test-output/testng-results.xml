@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-07T13:20:20 IST" name="Data Driven Basics" finished-at="2024-07-07T13:20:31 IST" duration-ms="11667">
+    <groups>
+    </groups>
+    <test started-at="2024-07-07T13:20:20 IST" name="Login as Bank Manager Test" finished-at="2024-07-07T13:20:20 IST" duration-ms="168">
+      <class name="com.sdet.testcases.LoginAsBankManagerTest">
+        <test-method signature="LoginAsBankManager()[pri:0, instance:com.sdet.testcases.LoginAsBankManagerTest@2eae8e6e]" started-at="2024-07-07T13:20:20 IST" name="LoginAsBankManager" finished-at="2024-07-07T13:20:20 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAsBankManager -->
+      </class> <!-- com.sdet.testcases.LoginAsBankManagerTest -->
+    </test> <!-- Login as Bank Manager Test -->
+    <test started-at="2024-07-07T13:20:20 IST" name="Add Customer" finished-at="2024-07-07T13:20:31 IST" duration-ms="11435">
+      <class name="com.sdet.testcases.AddCustomerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sdet.testcases.AddCustomerTest@268f106e]" started-at="2024-07-07T13:20:15 IST" name="setUp" finished-at="2024-07-07T13:20:20 IST" duration-ms="4724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Add_Customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.sdet.testcases.AddCustomerTest@268f106e]" started-at="2024-07-07T13:20:21 IST" name="Add_Customer" data-provider="getData" finished-at="2024-07-07T13:20:24 IST" duration-ms="3390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sasuke]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uchiha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Customer -->
+        <test-method signature="Add_Customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.sdet.testcases.AddCustomerTest@268f106e]" started-at="2024-07-07T13:20:24 IST" name="Add_Customer" data-provider="getData" finished-at="2024-07-07T13:20:28 IST" duration-ms="3380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pikachu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ketchup]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6534]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Customer -->
+        <test-method signature="Add_Customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.sdet.testcases.AddCustomerTest@268f106e]" started-at="2024-07-07T13:20:28 IST" name="Add_Customer" data-provider="getData" finished-at="2024-07-07T13:20:31 IST" duration-ms="3435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chandan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mishra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[486889]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Customer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sdet.testcases.AddCustomerTest@268f106e]" started-at="2024-07-07T13:20:31 IST" name="tearDown" finished-at="2024-07-07T13:20:32 IST" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sdet.testcases.AddCustomerTest -->
+    </test> <!-- Add Customer -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>

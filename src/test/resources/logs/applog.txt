@@ -1,0 +1,7 @@
+DEBUG   2024-07-06 16:19:13,491 [main] devpinoylogger  - Config Loaded
+DEBUG   2024-07-06 16:19:13,492 [main] devpinoylogger  - OR Loaded
+DEBUG   2024-07-06 16:19:17,115 [main] devpinoylogger  - FireFox Loaded
+DEBUG   2024-07-06 16:19:18,204 [main] devpinoylogger  - testsiteURL Loaded
+DEBUG   2024-07-06 16:19:18,726 [main] devpinoylogger  - clicked on login as bank manager
+DEBUG   2024-07-06 16:19:18,737 [main] devpinoylogger  - Add customer is visible
+DEBUG   2024-07-06 16:19:20,229 [main] devpinoylogger  - driver quit
