@@ -1,0 +1,6 @@
+com\sdet\testcases\LoginAsBankManagerTest.class
+com\sdet\rough\TestProperties.class
+com\sdet\listener\CustomListeners.class
+com\sdet\testcases\AddCustomerTest.class
+com\sdet\utilities\ExtentManager.class
+com\sdet\base\TestBase.class
